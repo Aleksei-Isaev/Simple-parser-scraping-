@@ -9,3 +9,5 @@ My simple parser example, just for beginning of scraping
 *pip install requests
 
 *pip install beautifulsoup4
+
+*example web-site: https://webscraper.io/test-sites/e-commerce/allinone
